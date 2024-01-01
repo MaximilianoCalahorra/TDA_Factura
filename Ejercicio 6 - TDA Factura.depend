@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1682102383 source:d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1682104109 source:d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\detalle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+
+1682104535 source:d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\factura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+	"cliente.h"
+	"factura.h"
+
+1682104846 source:d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"cliente.h"
+	"factura.h"
+
+1682100307 d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\factura.h
+
+1682104595 source:d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1682086639 d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\producto.h
+
+1682027475 d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\cliente.h
+
+1682094736 d:\unla\segundo año\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\detalle.h
+
+1682102383 source:d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1682027475 d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\cliente.h
+
+1682104109 source:d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\detalle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+
+1682086639 d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\producto.h
+
+1682094736 d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\detalle.h
+
+1682104940 source:d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\factura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+	"cliente.h"
+	"factura.h"
+
+1682100307 d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\factura.h
+
+1682104940 source:d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"factura.h"
+
+1682104940 source:d:\unla\segundo año\primer cuatrimestre\algortimos y estructuras de datos\ejercicios\guía de ejercicios\unidad 0\ejercicio 6 - tda factura\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1682102383 source:d:\portafolio\c\ejercicio 6 - tda factura\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1682027475 d:\portafolio\c\ejercicio 6 - tda factura\cliente.h
+
+1682104109 source:d:\portafolio\c\ejercicio 6 - tda factura\detalle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+
+1682086639 d:\portafolio\c\ejercicio 6 - tda factura\producto.h
+
+1682094736 d:\portafolio\c\ejercicio 6 - tda factura\detalle.h
+
+1704129645 source:d:\portafolio\c\ejercicio 6 - tda factura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"factura.h"
+
+1682100307 d:\portafolio\c\ejercicio 6 - tda factura\factura.h
+
+1704129516 source:d:\portafolio\c\ejercicio 6 - tda factura\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+
+1704129631 source:d:\portafolio\c\ejercicio 6 - tda factura\factura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"producto.h"
+	"detalle.h"
+	"cliente.h"
+	"factura.h"
+
