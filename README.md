@@ -1,5 +1,6 @@
 # Descripción del programa
 Este programa consiste en un **generador de facturas de compra desarrollado por completo en C aplicando los conceptos de structs y su anidamiento y del paradigma del TDA**.
+
 El sistema permite:
 - Cargar la información de los productos.
 - Crear el cliente que tendrá la factura.
